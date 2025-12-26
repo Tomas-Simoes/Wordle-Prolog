@@ -1,4 +1,4 @@
-# Logic-Project (Prolog Wordle)
+# Wordle Prolog
 This project is a logic-based implementation of the popular game **Wordle**, built entirely in **Prolog**. It features a fully interactive text-based UI, a game loop, and a solver to assist with optimal guesses.
 
 ## Project Structure
