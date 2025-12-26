@@ -1,5 +1,5 @@
 # Wordle Prolog
-This project is a logic-based implementation of the popular game **Wordle**, built entirely in **Prolog**. It features a fully interactive text-based UI, a game loop, and a solver to assist with optimal guesses.
+This project is a implementation of the popular game **Wordle**, built entirely in **Prolog**. It features a fully interactive text-based UI, a game loop, and a solver to assist with optimal guesses.
 
 ## Project Structure
 
@@ -20,7 +20,7 @@ To run this project, you need a Prolog interpreter. **SWI-Prolog** is the recomm
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Tomas-Simoes/Logic-Project.git](https://github.com/Tomas-Simoes/Logic-Project.git)
+    git clone https://github.com/Tomas-Simoes/Logic-Project.git
     cd Logic-Project
     ```
 
